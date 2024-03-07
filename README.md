@@ -1,1 +1,1 @@
-# policy
+# Candy Blocks Puzzle
